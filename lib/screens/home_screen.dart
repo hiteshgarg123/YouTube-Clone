@@ -21,8 +21,8 @@ class _HomeScreenState extends State<HomeScreen> {
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: <Widget>[
-            Image.network(
-              "https://www.replicawatchindiaa.com/image/catalog/A%20Cartier/yt.jpg",
+            Image.asset(
+              "assets/logos/YouTube-banner-logo.jpg",
               height: 32,
             ),
             // Your widgets here
