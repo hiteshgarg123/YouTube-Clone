@@ -6,7 +6,7 @@ A Challenge app for Internship.
 
 ## Getting Started 🚀
 
-- Clone the repo `git clone https://github.com/hiteshgarg123/CORONA-TRACKER`
+- Clone the repo `git clone https://github.com/hiteshgarg123/YouTube-Clone`
 - Install the dependicies `flutter pub get`
 - Run it `flutter run`
 
