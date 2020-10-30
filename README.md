@@ -31,11 +31,11 @@ A Challenge app for Internship.
 
 |                                                 |                                                 |                                                 |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| <img src="media/screenshots/1.png" width="400"> | <img src="media/screenshots/2.png" width="400"> | <img src="media/screenshots/3.png" width="400"> |
+| <img src="media/screenshots/1.jpg" width="400"> | <img src="media/screenshots/2.jpg" width="400"> | <img src="media/screenshots/3.jpg" width="400"> |
 
 |                                                 |                                                 |                                                 |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| <img src="media/screenshots/4.png" width="400"> | <img src="media/screenshots/5.png" width="400"> | <img src="media/screenshots/6.png" width="400"> |
+| <img src="media/screenshots/4.jpg" width="400"> | <img src="media/screenshots/5.jpg" width="400"> | <img src="media/screenshots/6.jpg" width="400"> |
 
 ## Contact me 📧
 
