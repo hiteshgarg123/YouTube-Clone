@@ -28,7 +28,7 @@ A Challenge app for Internship.
 
 <p float="left">
   <img src="media/videos/Search_demo.gif" width="300" height ="600"/>
-  <img src="media/videos/Player_demo.gif" width="300" height ="600"/> 
+  <img src="media/videos/player_demo.gif" width="300" height ="600"/> 
 </p>
 
 |                                                 |                                                 |                                                 |
