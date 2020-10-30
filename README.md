@@ -1,4 +1,4 @@
-# YouTube Clone
+# YouTube Clone <img src="assets/logos/YouTube-logo.png" width="40" height = "40">
 
 A Challenge app for Internship.
 
@@ -26,8 +26,10 @@ A Challenge app for Internship.
 
 ## Preview 📸
 
-![alt text](https://github.com/hiteshgarg123/YouTube-Clone/blob/master/media/videos/Search_demo.gif "Search demo")
-![alt text](https://github.com/hiteshgarg123/YouTube-Clone/blob/master/media/videos/player-demo.gif "Search demo")
+<p float="left">
+  <img src="media/videos/Search_demo.gif" width="300" height ="600"/>
+  <img src="media/videos/Player_demo.gif" width="300" height ="600"/> 
+</p>
 
 |                                                 |                                                 |                                                 |
 | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
